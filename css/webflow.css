@@ -1699,9 +1699,6 @@ textarea.w-select {
   background-color: #c8c8c8;
   color: white;
 }
-.w-nav[data-collapse="all"] .w-nav-menu {
-  display: none;
-}
 .w-nav[data-collapse="all"] .w-nav-button {
   display: block;
 }
@@ -1715,9 +1712,6 @@ textarea.w-select {
   position: static;
 }
 @media screen and (max-width: 991px) {
-  .w-nav[data-collapse="medium"] .w-nav-menu {
-    display: none;
-  }
   .w-nav[data-collapse="medium"] .w-nav-button {
     display: block;
   }

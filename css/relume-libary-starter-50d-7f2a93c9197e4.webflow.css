@@ -3814,5 +3814,18 @@ img {
     width: 370px;
     min-height: 400px;
   }
+  .navbar2_container {
+    img, .buyButton {
+      display: none;
+    }
+    .navbar2_menu {
+      z-index: 1000;
+      padding: 0;
+      a {
+        font-size: 9px !important;
+        margin-right: 25px;
+      }
+    }
+  }
 }
 
