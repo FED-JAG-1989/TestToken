@@ -2521,6 +2521,10 @@ img {
   padding-bottom: 20px;
 }
 
+.singleLine {
+  white-space: nowrap;
+}
+
 .introSection {
   margin-top: 40px;
 }
@@ -2531,6 +2535,10 @@ img {
 .intro {
   min-width: 300px;
   height: 330px;
+}
+.introPara {
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .introDesc {
