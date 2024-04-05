@@ -2548,7 +2548,7 @@ img {
 
 .video-container {
   width: 300px; /* Adjust the container width as needed */
-  height: 400px; /* Adjust the container height as needed */
+  height: 300px; /* Adjust the container height as needed */
   overflow: hidden; /* Hide overflow content */
 }
 
@@ -2567,7 +2567,8 @@ img {
   }
   img {
     min-width: 1200px;
-    height: 450px;
+    height: 400px;
+
   }
 }
 
